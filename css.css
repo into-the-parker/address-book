@@ -1,0 +1,68 @@
+
+body{
+  background:url('https://drive.google.com/uc?id=1sp62zWJm6uR8749B7Mkz8H5iI2ttX2EG')no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Righteous', sans-serif !important;
+}
+
+#header h2{
+  text-align: center;
+  padding-top: 10px;
+  color: #B82214;
+  text-decoration: underline;
+}
+
+#outer {
+  margin: auto;
+  margin-top: 10%;
+  width: 40%;
+  height: auto;
+  position: relative;
+}
+#search{
+  position: relative;
+  display:inline-block;
+  margin-left: 5px;
+}
+
+#addContact{
+  position: relative;
+  display: inline-block;
+  padding-top: 5px;
+  margin-left: 5px;
+}
+
+#contactButton{
+position: relative;
+color: white;
+cursor: pointer;
+float: right;
+padding-right: 10px;
+}
+#contacts p{
+  color: white;
+  text-align: center;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: .45em .5em;
+}
+#delete{
+  color: white;
+  display: inline-block;
+  cursor: pointer;
+  margin-left: 45%;
+}
+#update{
+  color: white;
+  display: inline-block;
+  cursor: pointer;
+  padding-left: 10px;
+
+}
+#updatePop{
+margin-left: 5px;
+}
+
+
